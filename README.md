@@ -1,8 +1,8 @@
 # Amazon-Product-Review
 MY FIRST EXECUTED PROJECT WITH DSA INCUBATOR
-📥 Data Source
+**Data Source**
 The dataset was downloaded from the DSA Canvas LMS platform. It contains product reviews, ratings, pricing, and metadata.
-🧹 Product Reviews Data Cleaning & Processing
+**Product Reviews Data Cleaning & Processing**
 This project focuses on cleaning and preprocessing a dataset of product reviews and ratings obtained from the DSA Canvas LMS. The goal was to prepare the data for further analysis by ensuring consistency, removing redundancies, and enhancing usability.
 
  **Data Cleaning Summary**
