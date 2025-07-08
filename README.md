@@ -1,5 +1,6 @@
 # Amazon-Product-Review
 MY FIRST EXECUTED PROJECT WITH DSA INCUBATOR
+# The Journey
 
 **Data Source**
 The dataset was downloaded from the DSA Canvas . It contains product reviews, ratings, pricing, and metadata.
@@ -53,3 +54,26 @@ Created a new column: total_potential_revenue, calculated based on available pri
 - How does the rating relate to the level of discount?
 - How many products have fewer than 1,000 reviews?
 - Which categories have products with the highest discounts?
+
+-  This hands-on project helped me explore:
+ - How discount levels impact potential revenue
+ - Category performance and product pricing distribution
+ - Rating patterns and customer review volumes
+ - Custom formulas for discount buckets, revenue estimation, and scaling factors
+
+ ## Key Insights & Conclusion:
+- High discounts (≥50%) tend to boost visibility and purchase likelihood.
+- Categories like Electronics and Computers show strong performance in ratings and potential revenue.
+- Customer reviews and ratings play a vital role in scaling product value
+- Products with Fewer than 1,000 Reviews: 310 — could indicate new listings or low-performing products.
+- Rating vs. Discount: No direct correlation shown — implies customer satisfaction might not always depend on discount level.
+- Review-to-Product Ratio: Categories like Office Products and Health & Personal Care have fewer reviews despite high discounts — a sign of possible low visibility or relevance.
+
+
+## Recommendations:
+ - Focus discounts on underperforming or overstocked products to drive engagement.
+ - Promote highly-rated products as category flagships.
+ - Improve product quality and review volume in low-rated categories.
+ - Use structured discount buckets to optimize pricing strategies.
+
+Every row of data told a story, and every formula revealed a new perspective — I’m excited to keep building on this momentum!
